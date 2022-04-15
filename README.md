@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Landscape Architecture
+- 🌱 I’m currently learning UX/UI Design and Android Development
+
 <!--
 **mcarolinabento/mcarolinabento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
