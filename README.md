@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Landscape Architecture
+- 🔭 Working on Landscape Architecture
 - 🌱 I’m currently learning UX/UI Design and Web Development
 
 <!--
